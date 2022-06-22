@@ -1,0 +1,515 @@
+{
+    "character": {
+        "inventory": {
+            "gold": 205680
+        },
+        "user_id": "dzak",
+        "default_weapon_type": 3,
+        "creation": {
+            "specie": "du_hmn",
+            "group_param_list": {
+                "HeadParams": {
+                    "int_param_list": {
+                        "HeadIndex": [
+                            "HeadStyle",
+                            1
+                        ]
+                    },
+                    "color_param_list": {
+                        "IrisColor": [
+                            "Material",
+                            0.47932,
+                            0.2,
+                            1
+                        ]
+                    }
+                },
+                "BodyParams": {
+                    "int_param_list": {
+                        "PoseId": [
+                            "PoseStyle",
+                            1
+                        ]
+                    },
+                    "color_param_list": {
+                        "L3_Color": [
+                            "HairColor",
+                            0.2,
+                            0.2,
+                            0.7
+                        ],
+                        "L1_Color": [
+                            "SkinColor",
+                            0.71,
+                            0.48,
+                            0.4
+                        ]
+                    },
+                    "float_param_list": {
+                        "Fat": [
+                            "Morph",
+                            0.2
+                        ],
+                        "Muscle": [
+                            "Morph",
+                            0.2
+                        ],
+                        "Slim": [
+                            "Morph",
+                            0.2
+                        ],
+                        "Height": [
+                            "BodyHeight",
+                            0.5
+                        ]
+                    }
+                },
+                "HairParams": {
+                    "int_param_list": {
+                        "FrontHairId": [
+                            "HairStyle_hf",
+                            2
+                        ]
+                    },
+                    "color_param_list": {
+                        "L3_Color": [
+                            "HairColor",
+                            0.2,
+                            0.2,
+                            0.7
+                        ],
+                        "L2_Color": [
+                            "HairColor",
+                            0.3,
+                            0.3,
+                            0.7
+                        ]
+                    }
+                }
+            },
+            "gender": 1,
+            "maturity": 2
+        },
+        "level": 21,
+        "xp": 5869,
+        "equippedItem": {
+            "avt_foot": "avt_foot_001_011485549415",
+            "avt_top": "avt_top_001_011485549415",
+            "wp_gs_eq_weapon": "eq_swd_003_011485549415",
+            "avt_pant": "avt_pant_001_011485549415",
+            "avt_cape": "avt_cape_001_0114855sds415"
+        },
+        "storedItem": {
+            "avt_cape_001_0114855sds415": {
+                "upgrade_level": 3,
+                "type": 1,
+                "item_id": "avt_cape_001"
+            },
+            "avt_pant_001_011485549415": {
+                "upgrade_level": 3,
+                "type": 1,
+                "item_id": "avt_pant_001"
+            },
+            "im_0004": {
+                "count": 880,
+                "type": 0
+            },
+            "avt_top_001_011485549415": {
+                "upgrade_level": 2,
+                "type": 1,
+                "item_id": "avt_top_001",
+                "customization": {
+                    "colorA": [
+                        0.617881,
+                        0.648069,
+                        0.661458
+                    ],
+                    "colorB": [
+                        0.341915,
+                        0.048172,
+                        0.024158
+                    ],
+                    "colorC": [
+                        0.027265,
+                        0.030591,
+                        0.036458
+                    ]
+                }
+            },
+            "avt_foot_001_011485549415": {
+                "upgrade_level": 3,
+                "type": 1,
+                "item_id": "avt_foot_001"
+            },
+            "eq_swd_003_011485549415": {
+                "upgrade_level": 11,
+                "type": 1,
+                "item_id": "eq_swd_004"
+            },
+            "eq_swd_001_458852771487": {
+                "upgrade_level": 7,
+                "type": 1,
+                "item_id": "eq_swd_001"
+            },
+            "im_0005": {
+                "count": 470,
+                "type": 0
+            }
+        },
+        "char_id": "clienttest_char_01",
+        "name": "Einah",
+        "weapon_classe": {
+            "unlocked_wp_classe": [
+                "common",
+                "wp_spr",
+                "wp_ohs",
+                "wp_ktn",
+                "wp_gs",
+                "wp_bow",
+                "wp_fist"
+            ],
+            "common": {
+                "level": 1,
+                "skill_list": [
+                    {
+                        "uid": "cmn_skill_01",
+                        "level": 2,
+                        "skill_id": "change_weapon_skill"
+                    },
+                    {
+                        "uid": "cmn_skill_02",
+                        "level": 2,
+                        "skill_id": "change_weapon_skill"
+                    }
+                ]
+            },
+            "wp_spr": {
+                "selected_skill_slot": [
+                    ["wp_spr_skill_01"],
+                    ["wp_spr_skill_02", "wp_spr_skill_03"],
+                    ["wp_spr_skill_04"],
+                    ["wp_spr_skill_05"],
+                    ["wp_spr_super_01"],
+                    ["cmn_skill_01"],
+                    ["cmn_skill_01"]
+                ],
+                "level": 1,
+                "skill_list": [
+                    {
+                        "uid": "wp_spr_skill_01",
+                        "level": 2,
+                        "skill_id": "default_skill_01"
+                    },
+                    {
+                        "uid": "wp_spr_skill_02",
+                        "level": 2,
+                        "skill_id": "wp_spr_skill_02"
+                    },
+                    {
+                        "uid": "wp_spr_skill_03",
+                        "level": 2,
+                        "skill_id": "wp_spr_skill_03"
+                    },
+                    {
+                        "uid": "wp_spr_skill_04",
+                        "level": 1,
+                        "skill_id": "wp_spr_skill_04"
+                    },
+                    {
+                        "uid": "wp_spr_skill_05",
+                        "level": 1,
+                        "skill_id": "wp_spr_skill_05"
+                    },
+                    {
+                        "uid": "wp_spr_super_01",
+                        "level": 2,
+                        "skill_id": "wp_spr_super_01"
+                    }
+                ]
+            },
+            "wp_ohs": {
+                "selected_skill_slot": [
+                    ["wp_gs_skill_01"],
+                    ["ohs_skill_02", "ohs_skill_03"],
+                    ["wp_gs_skill_10", "wp_gs_skill_07"],
+                    ["ohs_skill_05", "ohs_skill_04"],
+                    ["wp_gs_default_super_01"],
+                    ["cmn_skill_01"],
+                    ["cmn_skill_01"]
+                ],
+                "level": 1,
+                "skill_list": [
+                    {
+                        "uid": "wp_gs_skill_01",
+                        "level": 2,
+                        "skill_id": "default_skill_01"
+                    },
+                    {
+                        "uid": "ohs_skill_02",
+                        "level": 2,
+                        "skill_id": "ohs_skill_02"
+                    },
+                    {
+                        "uid": "ohs_skill_03",
+                        "level": 2,
+                        "skill_id": "ohs_skill_03"
+                    },
+                    {
+                        "uid": "ohs_skill_04",
+                        "level": 1,
+                        "skill_id": "ohs_skill_04"
+                    },
+                    {
+                        "uid": "ohs_skill_05",
+                        "level": 1,
+                        "skill_id": "ohs_skill_05"
+                    },
+                    {
+                        "uid": "wp_gs_skill_02",
+                        "level": 2,
+                        "skill_id": "default_skill_02"
+                    },
+                    {
+                        "uid": "wp_gs_skill_03",
+                        "level": 2,
+                        "skill_id": "default_skill_03"
+                    },
+                    {
+                        "uid": "wp_gs_skill_04",
+                        "level": 2,
+                        "skill_id": "default_skill_04"
+                    },
+                    {
+                        "uid": "wp_gs_skill_05",
+                        "level": 2,
+                        "skill_id": "default_skill_05"
+                    },
+                    {
+                        "uid": "wp_gs_skill_06",
+                        "level": 2,
+                        "skill_id": "gs_skill_06"
+                    },
+                    {
+                        "uid": "wp_gs_skill_07",
+                        "level": 2,
+                        "skill_id": "gs_skill_07"
+                    },
+                    {
+                        "uid": "wp_gs_skill_08",
+                        "level": 2,
+                        "skill_id": "gs_skill_08"
+                    },
+                    {
+                        "uid": "wp_gs_skill_09",
+                        "level": 2,
+                        "skill_id": "gs_skill_09"
+                    },
+                    {
+                        "uid": "wp_gs_skill_10",
+                        "level": 2,
+                        "skill_id": "gs_skill_10"
+                    },
+                    {
+                        "uid": "wp_gs_default_super_01",
+                        "level": 2,
+                        "skill_id": "default_super_01"
+                    }
+                ]
+            },
+            "wp_ktn": {
+                "selected_skill_slot": [
+                    ["wp_ktn_skill_01"],
+                    ["wp_ktn_skill_02", "wp_ktn_skill_03"],
+                    ["wp_ktn_skill_04", "wp_ktn_skill_05"],
+                    ["wp_ktn_skill_06", "wp_ktn_skill_07"],
+                    ["wp_ktn_super_01"],
+                    ["cmn_skill_01"],
+                    ["cmn_skill_01"]
+                ],
+                "level": 1,
+                "skill_list": [
+                    {
+                        "uid": "wp_ktn_skill_01",
+                        "level": 2,
+                        "skill_id": "default_skill_01"
+                    },
+                    {
+                        "uid": "wp_ktn_skill_02",
+                        "level": 2,
+                        "skill_id": "wp_ktn_skill_02"
+                    },
+                    {
+                        "uid": "wp_ktn_skill_03",
+                        "level": 2,
+                        "skill_id": "wp_ktn_skill_03"
+                    },
+                    {
+                        "uid": "wp_ktn_skill_04",
+                        "level": 1,
+                        "skill_id": "wp_ktn_skill_04"
+                    },
+                    {
+                        "uid": "wp_ktn_skill_05",
+                        "level": 1,
+                        "skill_id": "wp_ktn_skill_05"
+                    },
+                    {
+                        "uid": "wp_ktn_skill_06",
+                        "level": 2,
+                        "skill_id": "wp_ktn_skill_06"
+                    },
+                    {
+                        "uid": "wp_ktn_skill_07",
+                        "level": 2,
+                        "skill_id": "wp_ktn_skill_07"
+                    },
+                    {
+                        "uid": "wp_ktn_super_01",
+                        "level": 2,
+                        "skill_id": "wp_ktn_super_01"
+                    }
+                ]
+            },
+            "wp_gs": {
+                "selected_skill_slot": [
+                    ["wp_gs_skill_01"],
+                    ["wp_gs_skill_09", "wp_gs_skill_08"],
+                    ["wp_gs_skill_10", "wp_gs_skill_07"],
+                    ["wp_gs_skill_02", "wp_gs_skill_06"],
+                    ["wp_gs_default_super_01"],
+                    ["cmn_skill_01"],
+                    ["cmn_skill_01"]
+                ],
+                "level": 1,
+                "skill_list": [
+                    {
+                        "uid": "wp_gs_skill_01",
+                        "level": 2,
+                        "skill_id": "default_skill_01"
+                    },
+                    {
+                        "uid": "wp_gs_skill_02",
+                        "level": 2,
+                        "skill_id": "default_skill_02"
+                    },
+                    {
+                        "uid": "wp_gs_skill_03",
+                        "level": 2,
+                        "skill_id": "default_skill_03"
+                    },
+                    {
+                        "uid": "wp_gs_skill_04",
+                        "level": 2,
+                        "skill_id": "default_skill_04"
+                    },
+                    {
+                        "uid": "wp_gs_skill_05",
+                        "level": 2,
+                        "skill_id": "default_skill_05"
+                    },
+                    {
+                        "uid": "wp_gs_skill_06",
+                        "level": 2,
+                        "skill_id": "gs_skill_06"
+                    },
+                    {
+                        "uid": "wp_gs_skill_07",
+                        "level": 2,
+                        "skill_id": "gs_skill_07"
+                    },
+                    {
+                        "uid": "wp_gs_skill_08",
+                        "level": 2,
+                        "skill_id": "gs_skill_08"
+                    },
+                    {
+                        "uid": "wp_gs_skill_09",
+                        "level": 2,
+                        "skill_id": "gs_skill_09"
+                    },
+                    {
+                        "uid": "wp_gs_skill_10",
+                        "level": 2,
+                        "skill_id": "gs_skill_10"
+                    },
+                    {
+                        "uid": "wp_gs_default_super_01",
+                        "level": 2,
+                        "skill_id": "default_super_01"
+                    }
+                ]
+            },
+            "wp_bow": {
+                "selected_skill_slot": [
+                    ["wp_bow_skill_01"],
+                    ["wp_bow_skill_02"],
+                    ["wp_bow_skill_03"],
+                    ["wp_bow_super_skill_01"],
+                    ["wp_bow_skill_03"],
+                    ["cmn_skill_01"]
+                ],
+                "level": 1,
+                "skill_list": [
+                    {
+                        "uid": "wp_bow_skill_01",
+                        "level": 2,
+                        "skill_id": "Bow_Skill_01"
+                    },
+                    {
+                        "uid": "wp_bow_skill_02",
+                        "level": 2,
+                        "skill_id": "Bow_Skill_02"
+                    },
+                    {
+                        "uid": "wp_bow_skill_03",
+                        "level": 2,
+                        "skill_id": "Bow_Skill_03"
+                    },
+                    {
+                        "uid": "wp_bow_super_skill_01",
+                        "level": 2,
+                        "skill_id": "Bow_Super_01"
+                    }
+                ]
+            },
+            "wp_fist": {
+                "selected_skill_slot": [
+                    ["wp_fist_skill_01"],
+                    ["wp_fist_skill_02"],
+                    ["wp_fist_skill_03"],
+                    ["wp_fist_super_skill_01"],
+                    ["wp_fist_skill_03"],
+                    ["cmn_skill_01"]
+                ],
+                "level": 1,
+                "skill_list": [
+                    {
+                        "uid": "wp_fist_skill_01",
+                        "level": 2,
+                        "skill_id": "fist_skill_01"
+                    },
+                    {
+                        "uid": "wp_fist_skill_02",
+                        "level": 2,
+                        "skill_id": "fist_skill_02"
+                    },
+                    {
+                        "uid": "wp_fist_skill_03",
+                        "level": 2,
+                        "skill_id": "fist_skill_03"
+                    },
+                    {
+                        "uid": "wp_fist_skill_04",
+                        "level": 2,
+                        "skill_id": "fist_skill_04"
+                    },
+                    {
+                        "uid": "wp_fist_super_skill_01",
+                        "level": 2,
+                        "skill_id": "fist_super_skill_01"
+                    }
+                ]
+            }
+        }
+    }
+}
