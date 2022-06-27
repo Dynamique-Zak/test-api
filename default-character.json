@@ -179,13 +179,13 @@
                     {
                         "uid": "cmn_skill_02",
                         "level": 2,
-                        "skill_id": "change_weapon_skill"
+                        "skill_id": "cmn_skill_02"
                     }
                 ]
             },
             "wp_spr": {
                 "selected_skill_slot": [
-                    ["wp_spr_skill_01"],
+                    ["cmn_skill_02"],
                     ["wp_spr_skill_02", "wp_spr_skill_03"],
                     ["wp_spr_skill_04"],
                     ["wp_spr_skill_05"],
@@ -198,7 +198,7 @@
                     {
                         "uid": "wp_spr_skill_01",
                         "level": 2,
-                        "skill_id": "default_skill_01"
+                        "skill_id": "wp_spr_skill_01"
                     },
                     {
                         "uid": "wp_spr_skill_02",
@@ -229,7 +229,7 @@
             },
             "wp_ohs": {
                 "selected_skill_slot": [
-                    ["wp_gs_skill_01"],
+                    ["cmn_skill_02"],
                     ["ohs_skill_02", "ohs_skill_03"],
                     ["wp_gs_skill_10", "wp_gs_skill_07"],
                     ["ohs_skill_05", "ohs_skill_04"],
@@ -240,9 +240,9 @@
                 "level": 1,
                 "skill_list": [
                     {
-                        "uid": "wp_gs_skill_01",
+                        "uid": "ohs_skill_01",
                         "level": 2,
-                        "skill_id": "default_skill_01"
+                        "skill_id": "ohs_skill_01"
                     },
                     {
                         "uid": "ohs_skill_02",
@@ -318,7 +318,7 @@
             },
             "wp_ktn": {
                 "selected_skill_slot": [
-                    ["wp_ktn_skill_01"],
+                    ["cmn_skill_02"],
                     ["wp_ktn_skill_02", "wp_ktn_skill_03"],
                     ["wp_ktn_skill_04", "wp_ktn_skill_05"],
                     ["wp_ktn_skill_06", "wp_ktn_skill_07"],
@@ -331,7 +331,7 @@
                     {
                         "uid": "wp_ktn_skill_01",
                         "level": 2,
-                        "skill_id": "default_skill_01"
+                        "skill_id": "wp_ktn_skill_01"
                     },
                     {
                         "uid": "wp_ktn_skill_02",
@@ -372,7 +372,7 @@
             },
             "wp_gs": {
                 "selected_skill_slot": [
-                    ["wp_gs_skill_01"],
+                    ["cmn_skill_02"],
                     ["wp_gs_skill_09", "wp_gs_skill_08"],
                     ["wp_gs_skill_10", "wp_gs_skill_07"],
                     ["wp_gs_skill_02", "wp_gs_skill_06"],
@@ -385,7 +385,7 @@
                     {
                         "uid": "wp_gs_skill_01",
                         "level": 2,
-                        "skill_id": "default_skill_01"
+                        "skill_id": "wp_gs_skill_01"
                     },
                     {
                         "uid": "wp_gs_skill_02",
@@ -441,10 +441,10 @@
             },
             "wp_bow": {
                 "selected_skill_slot": [
-                    ["wp_bow_skill_01"],
+                    ["cmn_skill_02"],
                     ["wp_bow_skill_02"],
                     ["wp_bow_skill_03"],
-                    ["wp_bow_super_skill_01"],
+                    ["wp_bow_super_01"],
                     ["wp_bow_skill_03"],
                     ["cmn_skill_01"]
                 ],
@@ -453,28 +453,28 @@
                     {
                         "uid": "wp_bow_skill_01",
                         "level": 2,
-                        "skill_id": "Bow_Skill_01"
+                        "skill_id": "wp_bow_skill_01"
                     },
                     {
                         "uid": "wp_bow_skill_02",
                         "level": 2,
-                        "skill_id": "Bow_Skill_02"
+                        "skill_id": "wp_bow_skill_02"
                     },
                     {
                         "uid": "wp_bow_skill_03",
                         "level": 2,
-                        "skill_id": "Bow_Skill_03"
+                        "skill_id": "wp_bow_skill_03"
                     },
                     {
-                        "uid": "wp_bow_super_skill_01",
+                        "uid": "wp_bow_super_01",
                         "level": 2,
-                        "skill_id": "Bow_Super_01"
+                        "skill_id": "wp_bow_super_01"
                     }
                 ]
             },
             "wp_fist": {
                 "selected_skill_slot": [
-                    ["wp_fist_skill_01"],
+                    ["cmn_skill_02"],
                     ["wp_fist_skill_02"],
                     ["wp_fist_skill_03"],
                     ["wp_fist_super_skill_01"],
