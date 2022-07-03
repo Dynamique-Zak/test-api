@@ -376,7 +376,7 @@
                     ["wp_gs_skill_09", "wp_gs_skill_08"],
                     ["wp_gs_skill_10", "wp_gs_skill_07"],
                     ["wp_gs_skill_02", "wp_gs_skill_06"],
-                    ["wp_gs_default_super_01"],
+                    ["gs_super_skill_01"],
                     ["cmn_skill_01"],
                     ["cmn_skill_01"]
                 ],
@@ -433,9 +433,9 @@
                         "skill_id": "gs_skill_10"
                     },
                     {
-                        "uid": "wp_gs_default_super_01",
+                        "uid": "gs_super_skill_01",
                         "level": 2,
-                        "skill_id": "default_super_01"
+                        "skill_id": "gs_super_skill_01"
                     }
                 ]
             },
