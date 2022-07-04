@@ -441,73 +441,28 @@
             },
             "wp_bow": {
                 "selected_skill_slot": [
-                    ["cmn_skill_02"],
-                    ["wp_bow_skill_02"],
-                    ["wp_bow_skill_03"],
-                    ["wp_bow_super_01"],
-                    ["wp_bow_skill_03"],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
                     ["cmn_skill_01"]
                 ],
                 "level": 1,
                 "skill_list": [
-                    {
-                        "uid": "wp_bow_skill_01",
-                        "level": 2,
-                        "skill_id": "wp_bow_skill_01"
-                    },
-                    {
-                        "uid": "wp_bow_skill_02",
-                        "level": 2,
-                        "skill_id": "wp_bow_skill_02"
-                    },
-                    {
-                        "uid": "wp_bow_skill_03",
-                        "level": 2,
-                        "skill_id": "wp_bow_skill_03"
-                    },
-                    {
-                        "uid": "wp_bow_super_01",
-                        "level": 2,
-                        "skill_id": "wp_bow_super_01"
-                    }
                 ]
             },
             "wp_fist": {
                 "selected_skill_slot": [
                     ["cmn_skill_02"],
-                    ["wp_fist_skill_02"],
-                    ["wp_fist_skill_03"],
-                    ["wp_fist_super_skill_01"],
-                    ["wp_fist_skill_03"],
+                    [],
+                    [],
+                    [],
+                    [],
                     ["cmn_skill_01"]
                 ],
                 "level": 1,
                 "skill_list": [
-                    {
-                        "uid": "wp_fist_skill_01",
-                        "level": 2,
-                        "skill_id": "fist_skill_01"
-                    },
-                    {
-                        "uid": "wp_fist_skill_02",
-                        "level": 2,
-                        "skill_id": "fist_skill_02"
-                    },
-                    {
-                        "uid": "wp_fist_skill_03",
-                        "level": 2,
-                        "skill_id": "fist_skill_03"
-                    },
-                    {
-                        "uid": "wp_fist_skill_04",
-                        "level": 2,
-                        "skill_id": "fist_skill_04"
-                    },
-                    {
-                        "uid": "wp_fist_super_skill_01",
-                        "level": 2,
-                        "skill_id": "fist_super_skill_01"
-                    }
                 ]
             }
         }
