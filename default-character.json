@@ -441,7 +441,7 @@
             },
             "wp_bow": {
                 "selected_skill_slot": [
-                    [],
+                    ["cmn_skill_02"],
                     [],
                     [],
                     [],
