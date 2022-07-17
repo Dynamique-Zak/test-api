@@ -180,6 +180,11 @@
                         "uid": "cmn_skill_02",
                         "level": 2,
                         "skill_id": "cmn_skill_02"
+                    },
+                    {
+                        "uid": "internal_change_weapon",
+                        "level": 1,
+                        "skill_id": "internal_change_weapon"
                     }
                 ]
             },
