@@ -381,8 +381,7 @@
                     ["wp_gs_skill_09", "wp_gs_skill_08"],
                     ["wp_gs_skill_10", "wp_gs_skill_07"],
                     ["wp_gs_skill_02", "wp_gs_skill_06"],
-                    ["gs_super_skill_01"],
-                    ["cmn_skill_01"],
+                    ["wp_gs_super_skill_01"],
                     ["cmn_skill_01"]
                 ],
                 "level": 1,
@@ -395,52 +394,52 @@
                     {
                         "uid": "wp_gs_skill_02",
                         "level": 2,
-                        "skill_id": "default_skill_02"
+                        "skill_id": "wp_gs_skill_02"
                     },
                     {
                         "uid": "wp_gs_skill_03",
                         "level": 2,
-                        "skill_id": "default_skill_03"
+                        "skill_id": "wp_gs_skill_03"
                     },
                     {
                         "uid": "wp_gs_skill_04",
                         "level": 2,
-                        "skill_id": "default_skill_04"
+                        "skill_id": "wp_gs_skill_04"
                     },
                     {
                         "uid": "wp_gs_skill_05",
                         "level": 2,
-                        "skill_id": "default_skill_05"
+                        "skill_id": "wp_gs_skill_05"
                     },
                     {
                         "uid": "wp_gs_skill_06",
                         "level": 2,
-                        "skill_id": "gs_skill_06"
+                        "skill_id": "wp_gs_skill_06"
                     },
                     {
                         "uid": "wp_gs_skill_07",
                         "level": 2,
-                        "skill_id": "gs_skill_07"
+                        "skill_id": "wp_gs_skill_07"
                     },
                     {
                         "uid": "wp_gs_skill_08",
                         "level": 2,
-                        "skill_id": "gs_skill_08"
+                        "skill_id": "wp_gs_skill_08"
                     },
                     {
                         "uid": "wp_gs_skill_09",
                         "level": 2,
-                        "skill_id": "gs_skill_09"
+                        "skill_id": "wp_gs_skill_09"
                     },
                     {
                         "uid": "wp_gs_skill_10",
                         "level": 2,
-                        "skill_id": "gs_skill_10"
+                        "skill_id": "wp_gs_skill_10"
                     },
                     {
-                        "uid": "gs_super_skill_01",
+                        "uid": "wp_gs_super_skill_01",
                         "level": 2,
-                        "skill_id": "gs_super_skill_01"
+                        "skill_id": "wp_gs_super_skill_01"
                     }
                 ]
             },
